@@ -41,10 +41,10 @@
 	>if (($? != 0))
 	>then
 	>date >> curl.log
-	>
+	> #######
 	>else
 	>breake
-	>
+	> #######
 	>fi
 	>done
 	>```
