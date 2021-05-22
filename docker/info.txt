@@ -1,0 +1,2 @@
+sudo docker build -t factort/archlinux .
+sudo docker run -it --name archLinux2 factort/archlinux
